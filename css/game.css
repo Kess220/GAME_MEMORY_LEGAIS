@@ -70,3 +70,6 @@ header {
   filter: saturate(0);
   opacity: 0.5;
 }
+audio {
+  display: none;
+}
